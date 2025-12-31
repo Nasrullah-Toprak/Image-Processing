@@ -19,9 +19,6 @@ a small region in the center of the image to grayscale.
 Install OpenCV:
 pip install opencv-python
 
-## How to run
-python roi_grayscale.py
-
 ## Controls
 - Press 'q' to quit the program
 
